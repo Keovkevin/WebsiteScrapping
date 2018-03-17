@@ -31,3 +31,6 @@ Python has several other options for HTML scraping in addition to BeatifulSoup. 
      b.scrapemark
      c.scrapy
 ```
+ ```
+ Install pandas using pip install pandas
+ ```
